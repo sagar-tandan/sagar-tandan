@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sagar Tandan</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
+<img align="right" alt="Coding" width="400" height="300" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif"/>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagar-tandan&label=Profile%20views&color=0e75b6&style=flat" alt="sagar-tandan" /> </p>
 
@@ -10,6 +12,7 @@
 - 💬 Ask me about **JavaScript, Reactjs, Python, Nodejs**
 
 - 📫 How to reach me **sagarchhetry333@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
