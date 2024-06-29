@@ -56,4 +56,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagar-tandan&show_icons=true&locale=en" alt="sagar-tandan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagar-tandan&" alt="sagar-tandan" /></p>
