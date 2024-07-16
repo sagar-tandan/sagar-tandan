@@ -9,12 +9,6 @@
   <img src="https://komarev.com/ghpvc/?username=sagar-tandan&label=Profile%20views&color=0e75b6&style=flat" alt="sagar-tandan" /> 
 </p>
 
-<p align="center">
-  <a href="https://github.com/sagar-tandan" target="_blank">GitHub</a> |
-  <a href="https://www.linkedin.com/in/sagar-tandan-a1b3b2298/" target="_blank">LinkedIn</a> |
-  <a href="https://sagar-tandan.com" target="_blank">Portfolio</a>
-</p>
-
 <p align="center"> 
   👨‍💻 All of my projects are available at <a href="https://sagar3.com.np/" target="_blank">https://sagar3.com.np/</a>
 </p>
