@@ -11,11 +11,9 @@
 
 <p align="center">
   <a href="https://github.com/sagar-tandan" target="_blank">GitHub</a> |
-  <a href="https://www.linkedin.com/in/sagar-tandan" target="_blank">LinkedIn</a> |
+  <a href="https://www.linkedin.com/in/sagar-tandan-a1b3b2298/" target="_blank">LinkedIn</a> |
   <a href="https://sagar-tandan.com" target="_blank">Portfolio</a>
 </p>
-
-
 
 - 👨‍💻 All of my projects are available at [https://sagar3.com.np/](https://sagar3.com.np/)
 
@@ -23,17 +21,15 @@
 
 - 📫 How to reach me **sagarchhetry333@gmail.com**
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sagar-tandan-a1b3b2298/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sagar-tandan-a1b3b2298/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/sagartandan333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/sagartandan333" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/sagartandan_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sagartandan_/" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/sagar-tandan-a1b3b2298/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/sagartandan333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/sagartandan_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-
   <img src="https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
@@ -47,23 +43,16 @@
   <img src="https://img.shields.io/badge/postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/c-%23A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/c++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-
-
-
   <img src="https://img.shields.io/badge/android-%233DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
   <img src="https://img.shields.io/badge/java-%23007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/matlab-%23FF6323?style=for-the-badge&logo=matlab&logoColor=white" alt="MATLAB" />
   <img src="https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-
   <img src="https://img.shields.io/badge/pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/tensorflow-%23FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+</p>
 
- 
-
-  </p>
-  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagar-tandan&show_icons=true&locale=en&layout=compact" alt="sagar-tandan" /></p>
 
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagar-tandan&show_icons=true&locale=en" alt="sagar-tandan" /></p>
+
 
