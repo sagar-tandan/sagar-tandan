@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sagar3.com.np/](https://sagar3.com.np/)
 
-- 💬 Ask me about **JavaScript, Reactjs, Python, Nodejs**
+- 💬 Ask me about **JavaScript, Reactjs, Nodejs**
 
 - 📫 How to reach me **sagarchhetry333@gmail.com**
 
