@@ -15,21 +15,27 @@
   <a href="https://sagar-tandan.com" target="_blank">Portfolio</a>
 </p>
 
-- 👨‍💻 All of my projects are available at [https://sagar3.com.np/](https://sagar3.com.np/)
+<p align="center"> 
+  👨‍💻 All of my projects are available at <a href="https://sagar3.com.np/" target="_blank">https://sagar3.com.np/</a>
+</p>
 
-- 💬 Ask me about **JavaScript, Reactjs, Nodejs**
+<p align="center"> 
+  💬 Ask me about <b>JavaScript, Reactjs, Nodejs</b>
+</p>
 
-- 📫 How to reach me **sagarchhetry333@gmail.com**
+<p align="center"> 
+  📫 How to reach me <b>sagarchhetry333@gmail.com</b>
+</p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
   <a href="https://www.linkedin.com/in/sagar-tandan-a1b3b2298/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://www.facebook.com/sagartandan333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
   <a href="https://www.instagram.com/sagartandan_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
@@ -51,8 +57,11 @@
   <img src="https://img.shields.io/badge/tensorflow-%23FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagar-tandan&show_icons=true&locale=en&layout=compact" alt="sagar-tandan" /></p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagar-tandan&show_icons=true&locale=en&layout=compact" alt="sagar-tandan" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagar-tandan&show_icons=true&locale=en" alt="sagar-tandan" /></p>
-
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sagar-tandan&show_icons=true&locale=en" alt="sagar-tandan" />
+</p>
 
