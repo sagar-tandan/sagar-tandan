@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sagar Tandan</h1>
-<h3 align="center">Computer Engineer</h3>
+<h3 align="center">I am Computer Engineer</h3>
 <img align="right" alt="Coding" width="400" height="290" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif"/>
 
 
