@@ -45,7 +45,6 @@
   <img src="https://img.shields.io/badge/c++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/android-%233DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
   <img src="https://img.shields.io/badge/java-%23007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/matlab-%23FF6323?style=for-the-badge&logo=matlab&logoColor=white" alt="MATLAB" />
   <img src="https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/tensorflow-%23FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
