@@ -51,19 +51,8 @@
 </p>
 
 
+<p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagar-tandan&show_icons=true&locale=en&layout=compact" alt="sagar-tandan" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagar-tandan&show_icons=true&locale=en" alt="sagar-tandan" /></p>
 
-<p align="center">
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sagar-tandan&" alt="sagar-tandan" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=sagar-tandan&show_icons=true&locale=en" alt="sagar-tandan" />
-</p>
-
-
-
-
-
-<p align ="center" style="margin-top: 10px;">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagar-tandan&show_icons=true&locale=en&layout=compact" alt="sagar-tandan" />
-
-</p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagar-tandan&" alt="sagar-tandan" /></p>
