@@ -51,6 +51,15 @@
 </p>
 
 
+<p align="center"> 
+<img align="center" width="800px" src="https://github-readme-activity-graph.vercel.app/graph?username=sagar-tandan&bg_color=fff&color=5bc8c1&line=2c8f96&point=403d3d&area=true&hide_border=true" alt="Sagar's Contribution Graph" />
+</p>
+
+
+
+
+
+
 <p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagar-tandan&show_icons=true&locale=en&layout=compact" alt="sagar-tandan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagar-tandan&show_icons=true&locale=en" alt="sagar-tandan" /></p>
