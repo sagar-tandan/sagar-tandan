@@ -40,9 +40,9 @@ My passion lies in crafting innovative solutions and continuously exploring emer
 ## 📈 GitHub Stats & 🔍 Used Languages
 
 <div style="display: flex; gap: 20px;">
-    <img height="148px" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagar-tandan&show_icons=true&locale=en&layout=compact&hide_border=true&text_color=ffffff&bg_color=0,0a1f44,0c335c" alt="Sagar's Top Languages" />
-    <img height="148px" src="https://github-readme-stats.vercel.app/api?username=sagar-tandan&show_icons=true&locale=en&hide_border=true&text_color=ffffff&bg_color=0,0c335c,0a1f44" alt="Sagar's GitHub Stats" />
-    <img height="148px" src="https://github-readme-streak-stats.herokuapp.com/?user=sagar-tandan&hide_border=true&background=0a1f44&fire=ffffff&ring=f97316&stroke=ffffff&sideNums=ffffff&currStreakNum=ffffff&currStreakLabel=f97316&sideLabels=ffffff" alt="Sagar's GitHub Streak" />
+    <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagar-tandan&show_icons=true&locale=en&layout=compact&hide_border=true&text_color=ffffff&bg_color=0,0a1f44,0c335c" alt="Sagar's Top Languages" />
+    <img height="140px" src="https://github-readme-stats.vercel.app/api?username=sagar-tandan&show_icons=true&locale=en&hide_border=true&text_color=ffffff&bg_color=0,0c335c,0a1f44" alt="Sagar's GitHub Stats" />
+    <img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=sagar-tandan&hide_border=true&background=0a1f44&fire=ffffff&ring=f97316&stroke=ffffff&sideNums=ffffff&currStreakNum=ffffff&currStreakLabel=f97316&sideLabels=ffffff" alt="Sagar's GitHub Streak" />
 </div>
 
 ## 🎵 Now Playing
