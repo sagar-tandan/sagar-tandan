@@ -27,6 +27,8 @@ My passion lies in crafting innovative solutions and continuously exploring emer
   <img src="https://img.shields.io/badge/android-%233DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
   <img src="https://img.shields.io/badge/java-%23007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/.NET-%235C2D91?style=for-the-badge&logo=.NET&logoColor=white" alt=".NET" />
+
 </p>
 
 
