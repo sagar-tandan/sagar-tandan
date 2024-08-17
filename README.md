@@ -51,6 +51,6 @@ My passion lies in crafting innovative solutions and continuously exploring emer
 
 I love coding with music! Check out what I'm currently jamming to on Spotify:
 
-![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=5e8we1orf9j8kuqirqfttqk90&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=5e8we1orf9j8kuqirqfttqk90&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=false&bar_color_cover=true)
+![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=5e8we1orf9j8kuqirqfttqk90&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=false&bar_color_cover=true)
 
 
