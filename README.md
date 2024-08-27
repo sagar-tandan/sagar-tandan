@@ -47,10 +47,3 @@ My passion lies in crafting innovative solutions and continuously exploring emer
     <img height="120px" src="https://github-readme-streak-stats.herokuapp.com/?user=sagar-tandan&hide_border=true&background=0a1f44&fire=ffffff&ring=f97316&stroke=ffffff&sideNums=ffffff&currStreakNum=ffffff&currStreakLabel=f97316&sideLabels=ffffff" alt="Sagar's GitHub Streak" />
 </div>
 
-## 🎵 Now Playing
-
-I love coding with music! Check out what I'm currently jamming to on Spotify:
-
-![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=5e8we1orf9j8kuqirqfttqk90&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=false&bar_color_cover=true)
-
-
