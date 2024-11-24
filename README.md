@@ -10,7 +10,6 @@ My passion lies in crafting innovative solutions and continuously exploring emer
 - 📫 Reach me: [sagarchhetry333@gmail.com](mailto:sagarchhetry333@gmail.com)
 
 ## 💻 Skills & Expertise
-
 <p align="left">
   <img src="https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
